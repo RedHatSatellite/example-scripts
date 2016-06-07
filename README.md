@@ -31,3 +31,6 @@ This script has been tested and works on:
 ./example-script.py -l admin -s satellite.example.com
 ~~~
 
+# Known issues
+
+* Due to KCS12345, example-script.py is unable to foobar the froznab. 
